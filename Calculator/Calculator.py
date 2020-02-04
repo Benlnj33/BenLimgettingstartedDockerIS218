@@ -14,3 +14,9 @@ class Calculator:
 
     def divide(self, a, b):
         return a / b
+
+    def squareRoot(self, a):
+        return a ^ 0.5
+
+    def square(self, a):
+        return a ^ 2
